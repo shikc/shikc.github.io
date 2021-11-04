@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 1. [A Hexagon-Based Honeycomb Routing Architecture for FPGA]
-   * <a href="/publications/honeycomb.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/honeycomb1.pdf" style="color:#3793ae">preprint</a>
    * **Kaichuang Shi**, Hao Zhou and Lingli Wang
    * 20th IEEE International Conference on Field-Programmable Technology (FPT), Auckland, New Zealand, Dec.06-10, 2021
 2. [General Routing Architecture Modelling and Exploration for Modern FPGAs]
-   * <a href="/publications/GRB.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/GRB1.pdf" style="color:#3793ae">preprint</a>
    * Jiadong Qian, Yuhang Shen, **Kaichuang Shi**, Hao Zhou and Lingli Wang
    * 20th IEEE International Conference on Field-Programmable Technology (FPT), Auckland, New Zealand, Dec.06-10, 2021
 3. [Two-level MUX Design and Exploration in FPGA Routing Architecture]
