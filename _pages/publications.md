@@ -7,7 +7,7 @@ author_profile: true
 1. [An Optimized GIB Routing Architecture with Bent Wires for FPGA]
    * <a href="/publications/GIB_bent.pdf" style="color:#3793ae">preprint</a>
    * **Kaichuang Shi**, Hao Zhou, Xuegong Zhou and Lingli Wang
-   * ACM Transactions on Reconfigurable Technology and Systems, just Accepted, 2022
+   * ACM Transactions on Reconfigurable Technology and Systems, just accepted, 2022
 2. [A Hexagon-Based Honeycomb Routing Architecture for FPGA]
    * <a href="/publications/honeycomb.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/honeycomb_slide.pdf" style="color:#3793ae">slides</a>
    * **Kaichuang Shi**, Hao Zhou and Lingli Wang
