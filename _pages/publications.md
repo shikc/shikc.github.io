@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 1. [An Enhanced Packing Algorithm for FPGA Architectures Without Local Crossbar]
-   * <a href="/publications/GIB.pdf" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/2023 An Enhanced Packing Algorithm for FPGA Architectures without Local Crossbar.pdf" style="color:#3793ae">preprint</a> 
    * Yuanqi Wang, **Kaichuang Shi** and Lingli Wang
    * 15th IEEE International Conference on ASIC (ASICON), pp. 1-4, 2023
 2. [Efficient FPGA Routing Architecture Exploration Based on Two-Stage MUXes]
-   * <a href="/publications/GIB.pdf" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/2023 Efficient FPGA Routing Architecture Exploration Based on Two-Stage MUXes.pdf" style="color:#3793ae">preprint</a> 
    * Jide Zhang, Kaixiang Zhu, **Kaichuang Shi**, Lingli Wang and Hao Zhou
    * 15th IEEE International Conference on ASIC (ASICON), pp. 1-4, 2023
 3. [An Optimized GIB Routing Architecture with Bent Wires for FPGA]
