@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 * Huawei, Shanghai, China
-  * Summer Intern, HiSilicon Wireless Infrastructure Architecture and System Design Department, Jun. 2021 - Dec. 2021 
+  * Summer Intern, HiSilicon Wireless Infrastructure Architecture and System Design Department, Jun. 2021 - Dec. 2023 
  
 Skills
 ======
